@@ -3,4 +3,4 @@ Here are the steps you need to follow to have Semaphore installed on Ubuntu / De
 
 <h2>Step 1: Update system and install git</h2>
 <p>update and upgrade your system</p>
-><p>sudo apt update && apt upgrade</p>
+  <p>sudo apt update && apt upgrade</p>
